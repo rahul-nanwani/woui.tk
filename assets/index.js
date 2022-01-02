@@ -16,7 +16,7 @@
 // }, 1000);
 
 var start = new Date("May 24, 2021 23:18:00").getTime();
-var end = new Date("Jan 2, 2022 16:00:00").getTime();
+var end = new Date("Jan 2, 2022 15:53:00").getTime();
 
 var elapsed = end - start;
 
